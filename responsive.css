@@ -4,6 +4,12 @@
         background: #24c2a4;
         padding: 32px 56px;
     }
+    .service-section .design-section {
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 20px 85px;
+	margin-top: 20px;
+}
 
 }
 
